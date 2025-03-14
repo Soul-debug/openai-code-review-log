@@ -4,7 +4,7 @@
 
 **变更前:**
 ```java
-.setURI("https://github.com/fuzhengwei/openai-code-review-log.git")
+.setURI("https://github.com/ali.wan/openai-code-review-log.git")
 ```
 
 **变更后:**
@@ -21,7 +21,7 @@
 
 **变更前:**
 ```java
-return "https://github.com/fuzhengwei/openai-code-review-log/blob/master/" + dateFolderName + "/" + fileName;
+return "https://github.com/ali.wan/openai-code-review-log/blob/master/" + dateFolderName + "/" + fileName;
 ```
 
 **变更后:**
